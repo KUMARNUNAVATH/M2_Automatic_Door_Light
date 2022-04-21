@@ -4,7 +4,7 @@ Conservation of energy such as lighting is considered a serious concern at natio
 However, this system is said to be energy consuming because requires a computer 24-hours a day as controlling mechanism . Furthermore, this system will cost extra expenditure to users as they have to purchase a computer and special installation is required such as hardware and software integration to control the lights.
 
 we are Desing a  Automatic Door light system (ADLS) using the pull-up resistor as a  light sensor circuit, atmega328p controller and voltmeter. This system detects Door open or close in a location to turn ‘ON’ or ‘OFF’ the controlled lights. Additionally, ADL system controls the light intensity during daylight. After operating for nine months, 50 percent energy saving was achieved compared to the previous usage 
-# STRENGTHS
+## STRENGTHS
   1.Easier entrance and exit monitoring.
   
   2.Energy savings.
@@ -14,15 +14,15 @@ we are Desing a  Automatic Door light system (ADLS) using the pull-up resistor a
   4.Easy entrance for people with disabilities.
   
   5.Lesser maintenance and assorted costs.
-# WEAKNESSES
+## WEAKNESSES
   1.it is not possible to control light intensity
   
   2.in day time it's not sufficient to control light.
-# OPPORTUNITIES
+## OPPORTUNITIES
 Automatic Door light System reducing the work of beings as comapre to normal Switch circuit. Speed of this Circuit will more and saving more             electricity bill.more over cost of the system will be very less
-# THREATS
+## THREATS
 competition will more in this technology and we are continuous keep updating our system and in stable in nature
-# HIGH LEVEL REQUIREMENTS:
+## HIGH LEVEL REQUIREMENTS:
 ![HLR](https://user-images.githubusercontent.com/101395036/164391362-91abdb80-2e38-423c-bd7a-d3b2d6be3a5b.png)
-# LOW LEVEL REQUIREMENTS:
+## LOW LEVEL REQUIREMENTS:
 ![LLR](https://user-images.githubusercontent.com/101395036/164390863-a00e19b3-519b-4f72-a762-d996a88e8eaf.png)
