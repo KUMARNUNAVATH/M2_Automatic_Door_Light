@@ -22,7 +22,7 @@ we are Desing a  Automatic Door light system (ADLS) using the pull-up resistor a
 Automatic Door light System reducing the work of beings as comapre to normal Switch circuit. Speed of this Circuit will more and saving more             electricity bill.more over cost of the system will be very less
 ## THREATS
 competition will more in this technology and we are continuous keep updating our system and in stable in nature
-## HIGH LEVEL REQUIREMENTS:
+## HIGH LEVEL REQUIREMENTS
 ![HLR](https://user-images.githubusercontent.com/101395036/164391362-91abdb80-2e38-423c-bd7a-d3b2d6be3a5b.png)
-## LOW LEVEL REQUIREMENTS:
+## LOW LEVEL REQUIREMENTS
 ![LLR](https://user-images.githubusercontent.com/101395036/164390863-a00e19b3-519b-4f72-a762-d996a88e8eaf.png)
