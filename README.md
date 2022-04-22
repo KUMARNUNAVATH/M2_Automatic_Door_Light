@@ -1,5 +1,12 @@
 # Automatic_Door_Light
 ## In Action
+* OFF STATE
+
+![output](https://user-images.githubusercontent.com/101395036/164628466-dec9c353-d8ba-43e8-8ef5-79e9165c96b2.png)
+
+* ON STATE
+
+![output1](https://user-images.githubusercontent.com/101395036/164628663-2ca6c769-41b7-4b79-954f-d866408173ee.png)
 
 ## Cppcheck
 [![Analysis](https://github.com/KUMARNUNAVATH/M1_CALCULATOR/actions/workflows/analysis.yml/badge.svg)](https://github.com/KUMARNUNAVATH/M1_CALCULATOR/actions/workflows/analysis.yml)
